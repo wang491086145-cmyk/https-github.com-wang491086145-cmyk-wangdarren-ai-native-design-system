@@ -1,0 +1,6 @@
+{
+  "name": "AI-Native Design System",
+  "description": "An AI-native design system that turns product requirements into consistent, production-ready interfaces and code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
